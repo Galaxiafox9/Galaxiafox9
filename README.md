@@ -4,7 +4,7 @@ from blockatebots import Actions
 actions = Actions()
 
 #Getting a user
-user = actions.get_user(screen_name = '@grace_mmag')
+user = actions.get_user(screen_name = '@grace_mmag1')
 print user
 
 #Create a list
